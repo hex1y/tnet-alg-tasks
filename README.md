@@ -3,4 +3,4 @@
 ### Req.:
 - PHP 8+
 
-Run `php Executor.php` ... This will run all of the tasks at once
+Run `php Executor.php` ... This will run all the tasks at once
